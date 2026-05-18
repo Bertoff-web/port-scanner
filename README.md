@@ -16,3 +16,15 @@ python report.py
 ```
 
 ## Exemplo de saída
+
+```
+[*] Iniciando scan em 127.0.0.1
+[*] Portas: 1 → 1024
+
+  [+] Porta   135 ABERTA  → Windows RPC
+  [+] Porta   445 ABERTA  → SMB
+
+[*] Scan concluído em 5s
+[*] 2 porta(s) aberta(s) encontrada(s)
+```
+
